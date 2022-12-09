@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+/home/atirpathi/Documents/GitLearn/CoreJavaproj2Repo/.metadata/.plugins/org.eclipse.jdt.core
+902164370.index
+2412674846.index
+1865797976.index
+2540607589.index
+33720281.index
+241682911.index
+2194087924.index
+2635979372.index
