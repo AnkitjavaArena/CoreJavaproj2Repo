@@ -9,6 +9,7 @@ public class EMainClass {
 		Scanner s=new Scanner(System.in);
 		EmployeeSalary es=new EmployeeSalary();
 		System.out.println("Enter the bSal::");
+				System.out.println("Enter the bSal::");
 		int bSal=s.nextInt();
 		es.calculate(bSal);
 		es.getEmployeeSalary();
